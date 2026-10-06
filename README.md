@@ -21,7 +21,7 @@
 - 🎓 Cursando **Ciência da Computação na FIAP** (4º semestre)
 - 📊 Trabalhando com **Python, SQL e Power BI** para análise e visualização de dados
 - 🌱 Estudando engenharia de dados, machine learning e visão computacional
-- 🌍 Inglês **C1**
+- 🌍 Inglês **B2**
 - 💬 Curto conversar sobre dados, automação e projetos paralelos
 
 ---
