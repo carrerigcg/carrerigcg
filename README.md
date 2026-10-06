@@ -99,7 +99,3 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/carrerigcg/carrerigcg/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=carrerigcg&color=blueviolet&style=flat-square" alt="Profile views">
-</p>
